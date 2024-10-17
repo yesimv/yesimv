@@ -1,1 +1,149 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('5 1i=["Mü1d","7f","7e","1Y","7d","1e","7c","7b","7a","79","78","24","77","1f","76ö75","74","73","72","23","71","25","1c","70","6Z","6Y","6X","Kö6W","1b","6V","6U","25","6T","24","6S","6R","1Z","6Q","6P","Gü22","6O","6N","6M","20","1f","23","6L","6K","6J","6I","Gü22","6H","6G","21","6F","6E","6D","6C","6B","Mö1d","6A","6z","Gö6y","6xß","6w","6v","Gü6u","6t","6s","6r","6q","21","6p","6o","1b","6nö6m","6lü6k","1e","20","1f","6j","6i","6h","6g","1e","1c","Mö1d","1Z","1Y","1c","6f","6e","6d","1b","6c","6b","6a","69","68"];5 1h=["67ía","66á1W","65á64","63í62","Ló61","1Xí1a","Sá1T","Pét","Gó60","1Xín","Dí5Z","5Y","5Xñ5W","Á5V","5U","1Vé1a","5T","Vá5S","5R","5Q","5P","5O","5N","5M","5L","5K","5J","5Iá1W","1Vé1a","5H","Má5G","5F","Rí1U","5E","5D","5Cú5B","5A","5z","5y","5x","5w","5v","5u","5t","Pét","Té5s","5r","1x","5q","Rí1U","5p","5o","5n","5m","5l","5k","5j","5i","5h","5gñ5f","Pét","5e","5d","5cé5b","5a","59","58","57ña","56","55","54","Núñ53","52","1zít","51","50","4Z","4Y","Sá1T","4X","4W","4V","4U","4T","4S","4R","4Q","4P","4O","4N","4M","Pét","4L","4K","4J"];5 1g=["w x","q p","4I g","13 o","4H m","v y","1I f","r 17","1S c","4G 1R","4F k","1H c","9 7","4E 1O","4D 1J","10 h","Z 1G","1L q","1F 1P","4C f","c 12","1M 7","1K 1S","4B 1N","b c","19 19","17 y","p 4A","16 q","o x","4z 1Q","1D 14","4y 7","1B w","4x 16","4w k","4v h","1R r","4u 9","4t 4s","q 7","4r x","4q 4p","4o 1Q","4n 4m","15 4l","18 1P","19 m","4k 9","k 12","4j o","h 1O","1E y","4i 1N","1C 9","4h k","4g r","1A c","y 18","Z 1M","4f 1L","x v","4e m","4d 7","1K b","15 w","18 f","4c o","17 m","4b h","g b","1J w","v 10","4a 14","49 1I","48 p","1H v","9 r","1G f","7 g","13 b","1F 47","r 7","46 45","44 16","15 b","14 p","43 13","42 q","p 41","g 12","o 40","1E m","1D k","1C c","1B b","3Z h","1A g","10 9","Z f"];5 C=["3Y","3Xía","3W","3Vía","3U","3Tía","3Sé","3R","3Q","3P","3O","3N","3M","3L","3K","3J","3I","3H","3G","3F","3Eés","3D","3C","Mó1y","3B","3A","3z","3y","3x","3w","3v","3u","3t","3s","3r","1w","3q","3p","3o","3n","3m","1zón","3l","Ó3k","3j","Ví1v","3iés","3hás","3g","3f","3e","3d","3c","3búl","3a","Á39","38","37","36","35","34","33","Fé32","30","2Zén","2Y","2X","2W","2Ván","2U","2T","2S","2Ró1y","2Q","2P","2O","1x","2N","2M","2L","2K","2J","1w","2I","Hé1v","Á2H","2G","2Fán","Bá2E","2Dás","2C","2B","2Aín","2z","2yán","2x","2w","2v","2u","2t"];J 1k(1o){5 O=[];J 1n(){5 W=Y X(2s,0,1);5 1u=Y X(2r,11,31);5 u=Y X(W.U()+3.6()*(1u.U()-W.U()));5 1r=u.2q();5 1q=1t(u.2p()+1).1s(2,\'0\');5 1p=1t(u.2o()).1s(2,\'0\');1l`${1r}-${1q}-${1p}`}I(E i=0;i<1o;i++){5 Q=[];I(E j=0;j<1;j++){Q.1m(1n())}O.1m(Q)}1l O}5 z=1k(1);2n.2m(z);J 2l(){1j d="2k 2j 2i() 2h "1j A=2g;I(E i=0;i<2f;i++){d+=`(\'${A++}\'),\'${1i[3.8(3.6()*e)]}\',\'${1h[3.8(3.6()*e)]}\',\'${3.8(3.6()*2+1) == 1 ? C[3.8(3.6()*e)] : 1g[3.8(3.6()*e)] +" "+ C[3.8(3.6()*e)]}\',\'${A-1}@2e.2d.2c\',\'${z}\')<2b>`}d+=d.2a(0,-4)+";";29.28("27").26=d}',62,450,'|||Math||const|random|Hua|floor|Fang||Rui|Ming|resultado|100|Feng|Xi|Ying|||Wen||Yu||Yi|Wei|Li|Lan||rez|fechaAleatoria|Zhi|Mei|Ling|Hao|fechasAleatorias|matricula||nombresEspanol||let||||for|function|||||fechas||bloque||||getTime||inicio|Date|new|Jian|Hui||Yue|Jing|Rong|Qing|Xiang|Tian|Ran|Shan|nez|Engel|Schmitt|ller|Meyer|Wolf|nombresChino|apellidosEspanoles|apellidosAlemanes|var|generarFechasAleatorias|return|push|generarFechaAleatoria|cantidadBloques|dia|mes|anio|padStart|String|fin|ctor|Marcos|Alonso|nica|Ram|Guang|Dong|Cheng|Bo|Zhen|Kai|Guo|De|Xiao|Yan|Ping|Jun|Ning|Lin|Jie|Xin|Yang|He|An|nchez|os|Jim|ndez|Mart|Fischer|Schreiber|Keller|Huber|nther|Braun|Richter|Lange|innerHTML|parrafo|getElementById|document|slice|br|mx|edu|unikino|50000|223090001|VALUES|alumnos|INTO|INSERT|generar|log|console|getDate|getMonth|getFullYear|2024|1970|Cecilia|Jaime|Diana|Leonor|Gonzalo|Sebasti|Pilar|Joaqu|Manuela|Eladio|Nicol|rbara|Iv|Montserrat|lvaro|Elsa|Olga|Federico|Esteban|Guillermo|Irene|Clara|Ariadna|Mario|Ver|Santiago|Cristina|Marta|Adri|Victoria|Rafael|Gloria|Rub|Alicia||lix|Paula|Emilio|Eduardo|Elisa|Ignacio|Luz|ngel|Eva|Ra|Marina|Alfonso|Natalia|Manuel|Silvia|Tom|In|Esther|scar|Teresa|Valeria|Sergio|Lorena|Enrique|Sara|Ricardo|Claudia|Hugo|Julia|Alberto|Rosa|Diego|Beatriz|Roberto|Raquel|Antonio|Pablo|Patricia|Andr|Javier|Laura|Daniel|Fernando|Gabriela|Francisco|Isabel|David|Carmen|Luis|Elena|Miguel|Ana|Jos|Luc|Carlos|Sof|Juan|Mar|Alejandro|Fei|Fan|Qiang|Tao|Si|Nan|Qi|Min|Lun|Chong|Bin|Ao|Wan|Shu|Nian|Meng|Kang|Fen|Di|Bao|Xue|Tong|Shui|Xuan|Pei|Ou|Ya|Nuo|Mo|Long|Ke|Ji|Gui|Fu|Er|Chang|Zhao|Zhong|Qiao|Lei|Hai|Gao|Cai|Bai|Hong|Chen|Saavedra|Lara|Arroyo|Medina|Salvador|Ferrer|Contreras|Zapata|Solares|Tovar|Aranda|Aguilera|Salgado|Montes|Serrato|Correa|Mena|Gonzales|Paniagua|Bautista|ez|Mora|Arce|Coronado|Pe|Villar|Acosta|Salas|rrez|Guti|Orozco|Ocampo|eda|Casta|Villarreal|Duarte|Figueroa|Solano|Castillo|Camacho|Montoya|Ceballos|Quintero|Cabrera|Santos|llez|Valdez|Cordero|Maldonado|Silva|Cardenas|Hidalgo|Serrano|Vega|dez|Berm|Pacheco|Cano|Aguilar|rquez|Luna|Hern|Reyes|Cruz|Salazar|Torres|Navarro|Delgado|Ramos|Ortiz|Castro|zquez|Molina|Romero|lvarez|oz|Mu|Moreno|az|mez|pez|guez|Rodr|lez|Gonz|Fern|Garc|Eberhardt|Moser|Sauter|Friedrich|Senger|Ziegler|Fiedler|Pfeiffer|Schulze|Otten|Weiss|Wenzel|ger|Kr|hlich|Fr|Bock|Baumann|Putz|Witt|Dreyer|Beck|nzel|Arnold|Riedel|Krau|tz|Kiefer|Lorenz|Schrader|Dietrich|Stiegler|Roth|Schubert|Seidel|Schulte|Wiegand|Albrecht|Graf|Engelhardt|Hofmann|Hermann|Vogel|Jansen|Zimmer|Busch|Fuchs|Pohl|Walter|Herrmann|nig|Sommer|Meier|Krause|Werner|Hartmann|Zimmermann|Schwarz|Neumann|der|Schr|Klein|Koch|Schulz|Hoffmann|Becker|Wagner|Weber|Schneider|Schmidt'.split('|'),0,{}))
+
+
+const apellidosAlemanes = [
+    "Müller", "Schmidt", "Schneider", "Fischer", "Weber",
+    "Meyer", "Wagner", "Becker", "Hoffmann", "Schulz",
+    "Koch", "Richter", "Klein", "Wolf", "Schröder",
+    "Neumann", "Schwarz", "Zimmermann", "Braun", "Hartmann",
+    "Lange", "Schmitt", "Werner", "Krause", "Meier",
+    "Sommer", "König", "Engel", "Herrmann", "Walter",
+    "Lange", "Pohl", "Richter", "Fuchs", "Busch",
+    "Schreiber", "Zimmer", "Jansen", "Günther", "Vogel",
+    "Hermann", "Hofmann", "Keller", "Wolf", "Braun",
+    "Engelhardt", "Graf", "Albrecht", "Wiegand", "Günther",
+    "Schulte", "Seidel", "Huber", "Schubert", "Roth",
+    "Stiegler", "Dietrich", "Schrader", "Möller", "Lorenz",
+    "Kiefer", "Götz", "Krauß", "Riedel", "Arnold",
+    "Günzel", "Beck", "Dreyer", "Witt", "Putz",
+    "Huber", "Baumann", "Bock", "Engel", "Fröhlich",
+    "Krüger", "Meyer", "Keller", "Wolf", "Wenzel",
+    "Weiss", "Otten", "Schulze", "Meyer", "Schmitt",
+    "Möller", "Schreiber", "Fischer", "Schmitt", "Pfeiffer",
+    "Fiedler", "Ziegler", "Engel", "Senger", "Friedrich",
+    "Sauter", "Moser", "Eberhardt"
+];
+
+const apellidosEspanoles = [
+"García", "Fernández", "González", "Rodríguez", "López",
+"Martínez", "Sánchez", "Pérez", "Gómez", "Martín",
+"Díaz", "Moreno", "Muñoz", "Álvarez", "Romero",
+"Jiménez", "Molina", "Vázquez", "Castro", "Ortiz",
+"Ramos", "Delgado", "Navarro", "Torres", "Salazar",
+"Cruz", "Reyes", "Hernández", "Jiménez", "Luna",
+"Márquez", "Aguilar", "Ríos", "Cano", "Pacheco",
+"Bermúdez", "Vega", "Serrano", "Hidalgo", "Cardenas",
+"Silva", "Maldonado", "Cordero", "Valdez", "Pérez",
+"Téllez", "Santos", "Alonso", "Cabrera", "Ríos",
+"Quintero", "Ceballos", "Montoya", "Camacho", "Castillo",
+"Solano", "Figueroa", "Duarte", "Villarreal", "Castañeda",
+"Pérez", "Ocampo", "Orozco", "Gutiérrez", "Salas",
+"Acosta", "Villar", "Peña", "Coronado", "Arce",
+"Mora", "Núñez", "Bautista", "Ramírez", "Paniagua",
+"Gonzales", "Mena", "Correa", "Sánchez", "Serrato",
+"Montes", "Salgado", "Aguilera", "Aranda", "Tovar",
+"Solares", "Zapata", "Contreras", "Ferrer", "Salvador",
+"Medina", "Pérez", "Arroyo", "Lara", "Saavedra"
+];
+
+const nombresChino = [
+    "Mei Ling", "Li Wei", "Chen Xi", "Jing Yi", "Hong Yu",
+    "Zhi Hao", "Xiao Feng", "Lan Tian", "An Ming", "Bai He",
+    "Cai Wen", "De Ming", "Fang Hua", "Gao Jie", "Hai Yan",
+    "Hui Ying", "Jian Guo", "Jun Li", "Kai Xin", "Lei Feng",
+    "Ming Yue", "Ning Hua", "Ping An", "Qiao Lin", "Rui Ming",
+    "Shan Shan", "Tian Hao", "Wei Zhong", "Xiang Li", "Yi Ling",
+    "Zhao Yang", "Bo Rong", "Chang Hua", "Dong Mei", "Er Xiang",
+    "Fu Wen", "Gui Ying", "He Lan", "Ji Fang", "Ke Long",
+    "Li Hua", "Mo Ling", "Nuo Ya", "Ou Yang", "Pei Xuan",
+    "Qing Shui", "Ran Xin", "Shan Yu", "Tong Fang", "Wen Yue",
+    "Xue Yi", "Ying Jie", "Zhen Hao", "Bao Lin", "Cheng Fang",
+    "Di Wen", "Fen Lan", "Guang Ming", "Hao Ran", "Jian Ning",
+    "Kang Jun", "Ling Zhi", "Meng Yu", "Nian Hua", "Ping Rui",
+    "Qing Mei", "Ran Feng", "Shu Yi", "Tian Yu", "Wan Ying",
+    "Xi Rui", "Yan Mei", "Zhi Hui", "Ao Rong", "Bin Xiao",
+    "Chong Wei", "De Zhi", "Fang Lan", "Guo Feng", "Hua Xi",
+    "Jing Rui", "Kai Lun", "Lan Hua", "Min Qi", "Nan Xiang",
+    "Qing Rui", "Rong Wei", "Si Jing", "Tao Li", "Wei Qiang",
+    "Xi Yue", "Yi Fan", "Zhen Yu", "Bo Wen", "Cheng Ming",
+    "Dong Rui", "Fei Ying", "Guang Xi", "Hui Fang", "Jian Feng"
+];
+const nombresEspanol = [
+    "Alejandro", "María", "Juan", "Sofía", "Carlos",
+    "Lucía", "José", "Ana", "Miguel", "Elena",
+    "Luis", "Carmen", "David", "Isabel", "Francisco",
+    "Gabriela", "Fernando", "Daniel", "Laura", "Javier",
+    "Andrés", "Patricia", "Pablo", "Mónica", "Antonio",
+    "Raquel", "Roberto", "Beatriz", "Diego", "Rosa",
+    "Alberto", "Julia", "Hugo", "Claudia", "Ricardo",
+    "Marcos", "Sara", "Enrique", "Lorena", "Sergio",
+    "Valeria", "Ramón", "Teresa", "Óscar", "Esther",
+    "Víctor", "Inés", "Tomás", "Silvia", "Manuel",
+    "Natalia", "Alfonso", "Marina", "Raúl", "Eva",
+    "Ángel", "Luz", "Ignacio", "Elisa", "Eduardo",
+    "Emilio", "Paula", "Félix", "Alicia", "Rubén",
+    "Gloria", "Rafael", "Victoria", "Adrián", "Marta",
+    "Cristina", "Santiago", "Verónica", "Mario", "Ariadna",
+    "Clara", "Alonso", "Irene", "Guillermo", "Esteban",
+    "Federico", "Olga", "Marcos", "Elsa", "Héctor",
+    "Álvaro", "Montserrat", "Iván", "Bárbara", "Nicolás",
+    "Eladio", "Manuela", "Joaquín", "Pilar", "Sebastián",
+    "Gonzalo", "Leonor", "Diana", "Jaime", "Cecilia"
+];
+
+function generarFechasAleatorias(cantidadBloques) {
+    const fechas = [];
+
+    // Función para generar una fecha aleatoria entre dos fechas
+    function generarFechaAleatoria() {
+        const inicio = new Date(1970, 0, 1); // Fecha mínima: 1 de enero de 1970
+        const fin = new Date(2024, 11, 31);  // Fecha máxima: 31 de diciembre de 2024
+        const fechaAleatoria = new Date(inicio.getTime() + Math.random() * (fin.getTime() - inicio.getTime()));
+        
+        const anio = fechaAleatoria.getFullYear();
+        const mes = String(fechaAleatoria.getMonth() + 1).padStart(2, '0'); // Mes va de 0 a 11, por eso se suma 1
+        const dia = String(fechaAleatoria.getDate()).padStart(2, '0');
+        
+        return `${anio}-${mes}-${dia}`;
+    }
+
+    // Generar los bloques de fechas
+    for (let i = 0; i < cantidadBloques; i++) {
+        const bloque = [];
+        for (let j = 0; j < 1; j++) {
+            bloque.push(generarFechaAleatoria());
+        }
+        fechas.push(bloque);
+    }
+
+    return fechas;
+}
+
+// Ejemplo de uso: generar 10 bloques de 5 fechas aleatorias
+const fechasAleatorias = generarFechasAleatorias(1);
+console.log(fechasAleatorias);
+
+
+
+function generar() {
+    var resultado="INSERT INTO alumnos() VALUES "
+    
+    var matricula = 223090001;
+
+     
+
+    for (let i = 0; i < 50000; i++) {
+       resultado+= `('${matricula++}'),
+         '${apellidosAlemanes[Math.floor(Math.random()*100)]}',
+         '${apellidosEspanoles[Math.floor(Math.random()*100)]}', 
+         '${Math.floor(Math.random()*2+1) == 1 ? nombresEspanol[Math.floor(Math.random()*100)] : nombresChino[Math.floor(Math.random()*100)] +" "+ nombresEspanol[Math.floor(Math.random()*100)]}' ,
+         '${matricula-1}@unikino.edu.mx',
+        '${fechasAleatorias}')<br>`;}
+    //resultado+= `;` ;
+    resultado+=resultado.slice(0,-4)+";";
+
+    document.getElementById("parrafo").innerHTML = resultado;
+
+   
+
+}
+
